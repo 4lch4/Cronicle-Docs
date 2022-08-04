@@ -1,0 +1,11 @@
+site_name: Cronicle Documentation
+repo_url: https://github.com/jhuckaby/Cronicle/
+site_author: 4lch4
+site_description: A documentation site for the Cronicle task scheduler.
+theme:
+  name: material
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
